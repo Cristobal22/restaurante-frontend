@@ -1,0 +1,5 @@
+{
+  "name": "FRONTEND Restaurant Order Manager",
+  "description": "A Progressive Web App for managing restaurant orders and menus. This frontend application provides a login interface and a main dashboard for restaurant staff.",
+  "requestFramePermissions": []
+}
